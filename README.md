@@ -8,11 +8,12 @@
   "browser": "Pale Moon",
   "browserExtensions": ["uBlock Origin", "Palefill/Polyfill", "Web Developer's Toolbox", "Session Manager", "Extension Developer"],
   "programmingLanguages": ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Java", "Lua", "C#", "AutoHotkey/AHK"],
-  "editor": "VSCodium, Visual Studio, Notepad++, gVim, NeoVim",
+  "editors": ["VSCodium, Visual Studio, Notepad++, gVim, NeoVim"],
   "socials": {
-    "steam": "steamcommunity.com/id/MythicalTrashcan"
+    "steam": "steamcommunity.com/id/MythicalTrashcan",
     "email": "stardust5047@gmail.com",
-    "discord": "mythical_trashcan"
+    "revolt": "MythicalTrashcan#7252",
+    "discord": "Mythical Trashcan#2736"
   },
   "hasBrainDamage": false
 }
