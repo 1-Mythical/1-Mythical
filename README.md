@@ -7,8 +7,8 @@
   "operatingSystem": "Windows 10 Professional",
   "browser": "Pale Moon",
   "browserExtensions": ["uBlock Origin", "Palefill/Polyfill", "Web Developer's Toolbox", "Session Manager", "Extension Developer"],
-  "programmingLanguages": ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Java", "Lua", "C#"],
-  "editor": "VSCodium, Visual Studio, Notepadd++, gVim, NeoVim",
+  "programmingLanguages": ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Java", "Lua", "C#", "AutoHotkey/AHK"],
+  "editor": "VSCodium, Visual Studio, Notepad++, gVim, NeoVim",
   "socials": {
     "steam": "steamcommunity.com/id/MythicalTrashcan"
     "email": "stardust5047@gmail.com",
