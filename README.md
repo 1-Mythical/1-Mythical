@@ -14,6 +14,16 @@
     "email": "stardust5047@gmail.com",
     "revolt": "MythicalTrashcan#7252",
     "discord": "Mythical Trashcan#2736"
+  },
+  "donations": {
+    "walletAddresses": {
+      "bitcoin": "1AccZkrqzkeUhB5AXuSq8RJZ1iZBFe1gSW",
+      "ethereum": "0xBE6829D15ca09D11543D7b036E471598E4373379",
+      "litecoin": "LLAmL2CJ9iWpqVWTj2143BEcD5vnig6fr1",
+      "monero": "86ihibwRLeZ14RPwhqpRFkgrYDKTMi5aGe6e7TAQprgnQjKgWbX4ewUS9iyHbUQBwsGiTHBAWtYUtKFo4FnuhgutMMym1rW",
+      "chainlink": "0xBE6829D15ca09D11543D7b036E471598E4373379",
+      "ravencoin": "RYUpgNDBrZU7PPNWcntoFSwNnnQ983PRj6"
+    }
   }
 }
 
