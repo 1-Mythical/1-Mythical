@@ -14,7 +14,8 @@
     "email": "stardust5047@gmail.com",
     "revolt": "MythicalTrashcan#7252",
     "discord": "Mythical Trashcan#2736"
-  },
+  }
+
   "donations": {
     "walletAddresses": {
       "bitcoin": "1AccZkrqzkeUhB5AXuSq8RJZ1iZBFe1gSW",
