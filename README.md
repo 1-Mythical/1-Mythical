@@ -3,7 +3,7 @@
 {
   "name": "Mythical Trashcan",
   "age": 14,
-  "intrests": ["programming", "gaming", "digital privacy"],
+  "interests": ["programming", "gaming", "digital privacy"],
   "operatingSystem": "Windows 10 Professional",
   "browser": "Pale Moon",
   "browserExtensions": ["uBlock Origin", "Palefill/Polyfill", "Web Developer's Toolbox", "Session Manager", "Extension Developer"],
@@ -14,8 +14,7 @@
     "email": "stardust5047@gmail.com",
     "revolt": "MythicalTrashcan#7252",
     "discord": "Mythical Trashcan#2736"
-  },
-  "hasBrainDamage": false
+  }
 }
 
 Based on 3kh0 profile json
