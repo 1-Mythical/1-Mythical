@@ -2,18 +2,18 @@
 ```json
 {
   "name": "Mythical Trashcan",
-  "age": 14,
+  "age": 15,
   "interests": ["programming", "gaming", "digital privacy"],
   "operatingSystem": "Windows 10 Professional",
   "browser": "Pale Moon",
-  "browserExtensions": ["uBlock Origin", "Palefill/Polyfill", "Web Developer's Toolbox", "Session Manager", "Extension Developer"],
+  "browserExtensions": ["uMatrix", "Palefill/Polyfill", "Web Developer's Toolbox", "Session Manager", "Extension Developer"],
   "programmingLanguages": ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Java", "Lua", "C#", "AutoHotkey/AHK"],
   "editors": ["VSCodium, Visual Studio, Notepad++, gVim, NeoVim"],
   "socials": {
-    "steam": "steamcommunity.com/id/MythicalTrashcan",
-    "email": "stardust5047@gmail.com",
     "revolt": "MythicalTrashcan#7252",
-    "discord": "Mythical Trashcan#2736"
+    "discord": "Mythical Trashcan#2736",
+    "email": "stardust5047@gmail.com",
+    "steam": "steamcommunity.com/id/MythicalTrashcan"
   }
 
   "donations": {
