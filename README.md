@@ -7,10 +7,10 @@
   "operatingSystem": "Windows 10",
   "browser": "Ungoogled Chromium",
   "programmingLanguages": ["HTML", "CSS", "JavaScript", "Java", "Lua", "C#", "AutoHotkey/AHK"],
-  "editors": ["Windsurf, VSCodium, Visual Studio, Notepad++, gVim, NeoVim"],
+  "editors": [VSCodium, Visual Studio, gVim, NeoVim"],
   "workingon": "Ludos",
   "socials": {
-    "travesty": "1_Mythical",
+    "travesty": "MythicalTrashcan",
     "revolt": "MythicalTrashcan#7252",
     "discord": "Mythical Trashcan#2736",
     "email": "stardust5047@gmail.com",
