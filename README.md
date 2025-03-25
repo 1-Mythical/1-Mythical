@@ -7,7 +7,7 @@
   "operatingSystem": "Windows 10",
   "browser": "Ungoogled Chromium",
   "programmingLanguages": ["HTML", "CSS", "JavaScript", "Java", "Lua", "C#", "AutoHotkey/AHK"],
-  "editors": [VSCodium, Visual Studio, gVim, NeoVim"],
+  "editors": ["VSCodium", "Visual Studio", "gVim", "NeoVim"],
   "workingon": "Ludos",
   "socials": {
     "travesty": "MythicalTrashcan",
