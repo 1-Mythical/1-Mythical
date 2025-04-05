@@ -1,20 +1,19 @@
 
 ```json
 {
-  "name": "Mythical Trashcan",
+  "name": "1_Mythical",
   "age": 16,
   "interests": ["programming", "gaming", "digital privacy"],
   "operatingSystem": "Windows 10",
   "browser": "Ungoogled Chromium",
-  "programmingLanguages": ["HTML", "CSS", "JavaScript", "Java", "Lua", "C#", "AutoHotkey/AHK"],
-  "editors": ["VSCodium", "Visual Studio", "gVim", "NeoVim"],
+  "programmingLanguages": ["HTML", "CSS", "JavaScript", "Java", "Lua", "AutoHotkey/AHK"],
+  "editors": ["VSCodium"],
   "workingon": "Ludos",
   "socials": {
-    "travesty": "MythicalTrashcan",
-    "revolt": "MythicalTrashcan#7252",
-    "discord": "Mythical Trashcan#2736",
+    "travesty": "1_Mythical",
+    "revolt": "1_Mythical#7252",
+    "discord": "1_mythical",
     "email": "stardust5047@gmail.com",
-    "steam": "steamcommunity.com/id/MythicalTrashcan"
   }
 }
 
