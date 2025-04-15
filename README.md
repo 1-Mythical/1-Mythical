@@ -20,8 +20,6 @@
 Based on 3kh0 profile json
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MythicalTrashcan)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1-Mythical&layout=compact&theme=dark&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&border_color=30363D&bg_color=0D1117)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalTrashcan&layout=compact&theme=dark&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&border_color=30363D&bg_color=0D1117)
-
-![](https://komarev.com/ghpvc/?username=MythicalTrashcan&color=7F0B6B)
+![](https://komarev.com/ghpvc/?username=1-Mythical&color=7F0B6B)
